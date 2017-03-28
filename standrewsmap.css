@@ -2,6 +2,8 @@ body {
 background-color: #022F40;
 }
 
+#backbutton {text-align:center; color:orange;}
+
 h1 {
   text-align:center; color:orange; align-content: right; font:100pt "Elementa"
 }

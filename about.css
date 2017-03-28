@@ -1,0 +1,12 @@
+body
+div {position: relative;left: -300pt;}
+
+h1 {text-align:center; color:orange; align-content: right; font:100pt "Elementa"}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 80px 80px 80px;}
+h2 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
+
+h3 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}

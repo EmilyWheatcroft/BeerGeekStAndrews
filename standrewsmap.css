@@ -1,0 +1,63 @@
+body {
+background-color: #022F40;
+}
+
+h1 {
+  text-align:center; color:orange; align-content: right; font:100pt "Elementa"
+}
+h2 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h3 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+
+h4 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+
+h5 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+
+h6 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+
+
+ul {font:20pt "Elementa"; color: #046E8F  }
+
+#wrapper {
+     width: 1000px;
+     margin: 0 auto;
+     padding: 0;
+     overflow: auto;
+}
+
+#leftcolumn {
+     width: 40%;
+     background-color: #111;
+     padding: 0;
+     margin: 0;
+     display: block;
+     border: 1px solid white;
+     float: left;
+
+}
+
+#rightcolumn {
+     width: 40%;
+     background-color: #777;
+     display: block;
+     float: right;
+     border: 1px solid white;
+}
+
+
+#outerdiv {width: 90%; height: 90%; text-align:center}
+#map {width: 300px; height: 300px; margin:0px auto; display:inline-block}

@@ -1,0 +1,19 @@
+body {
+  background-image: url(Logomakr_2VCwCR.png);
+	background-position: center;
+        background-repeat: no-repeat;}}
+h1 {text-align:center; color:orange; align-content: right; font:50pt "Elementa"}
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  min-width: 50%;
+  min-height: 50%;
+}
+h2 {text-align:center; color:#38AECC; align-content: right; font:30pt "Elementa"}
+
+#mail {text-align:center; color:#38AECC; align-content: right; font:30pt "Elementa"}
+
+#homebutton {text-align:center; color:#38AECC; align-content: right; font:30pt "Elementa"}

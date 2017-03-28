@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link src="/Users/rachelrotheram/Library/Fonts/Elementa" rel="stylesheet" />
+<link rel='stylesheet' type='text/css' href='standrewsmap.css' />
+</head>
+
+<body>
+  <h1> Around St Andrews </h1>
+  <h2> Keep up to date! Check out Luvians and St Andrews Brewing Company on Twitter!</h2>
+  <h3> Check our map for our fave picks around town! </h3>
+
+
+<h4> In Town: Innis & Gunn Beer Kitchen </h4>
+<img src="beerkitchen.jpeg" width=500, height=500, align-content-center>
+<figcaption> Found at [xxx North St], the newest addition to St Andrews beer scene is Beer Kitchen from Edinburgh's Innis and Gunn </figcaption>
+
+<h5> In Town: Luvians Bottleshop </h5>
+<img src="rachelluvians.jpeg" width=500, height=500, align-content-center>
+<figcaption> Hit up Luvians Bottleshop at 66 Market St for the best craft beer selection in town </figcaption>
+
+<h6> In Town: St Andrews Brewing Company  </h6>
+<img src="stabco.jpeg" width=500, height=500, align-content-center>
+
+<section
+<div id="outerdiv">
+    <div id="map"></div>
+</div>
+
+<div id="wrapper">
+
+<div id="leftcolumn">
+  <a class="twitter-timeline" href="https://twitter.com/Luvians">Tweets by Luvians</a>
+  <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div id="rightcolumn">
+  <a class="twitter-timeline" href="https://twitter.com/standysbrewing">Tweets by standysbrewing</a>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+</section>
+
+
+<div id="backbutton" class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  <ul class="nav navbar-nav navbar-left">
+    <li><a href="mysite.html"> Home </a></li>
+  </ul>
+</div><!-- /.navbar-collapse -->
+
+<script>
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: new google.maps.LatLng(56.340385, -2.796618),
+      zoom: 10,
+      mapTypeId: google.maps.MapTypeId.HYBRID
+    });
+    var marker = new google.maps.Marker({
+      position: new google.maps.LatLng(56.340385, -2.796618),
+      map: map
+    });
+  }
+</script>
+
+<!-- <script type="text/javascript">
+  function map(){
+      var mapOptions = {
+          center: new google.maps.LatLng(56.340385, -2.796618),
+          zoom: 10,
+          mapTypeId: google.maps.MapTypeId.HYBRID
+      };
+      new google.maps.Map(document.getElementById("map"), mapOptions);
+  }
+</script> -->
+
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTV_XxsZwZDbn1Asj35VCG7YjBvH738d4&callback=initMap"></script>
+
+</body>
+</html>

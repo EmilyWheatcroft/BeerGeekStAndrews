@@ -1,0 +1,29 @@
+
+
+div#logo {position: relative;left: 370pt;}
+
+
+
+
+ul {
+    border: 0px solid #38AECC;
+    background-color: #38AECC;
+    font: 20pt "Elementa"
+}
+
+
+div#nav{
+  text-align: center;
+}
+div#nav ul{
+  display: inline-block;
+}
+
+
+h1 {text-align:center; color:orange; align-content: right; font:100pt "Elementa"}
+h2 {text-align:center; color:orange; align-content: center;font:70pt "Elementa" }
+h3 {text-align:center; color:#38AECC; align-content: bottom; font: 20pt "Elementa" }
+h4 {text-align:center; color:#38AECC; align-content: bottom; font: 20pt "Elementa" }
+h5 {text-align:center; color:#38AECC; align-content: bottom; font: 20pt "Elementa" }
+body {
+        background-color: #183446;

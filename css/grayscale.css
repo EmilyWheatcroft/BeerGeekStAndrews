@@ -6,9 +6,9 @@
 body {
   width: 100%;
   height: 100%;
-  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: white;
-  background-color: #c14547;
+  font-family: "Elementa", "Elementa", Elementa, Elementa, Elementa;
+  color: orange;
+  background-color: #183446;
 }
 html {
   width: 100%;
@@ -22,7 +22,7 @@ h5,
 h6 {
   margin: 0 0 35px;
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Elementa", "Elementa", Elementa, Elementa, Elementa;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -39,7 +39,7 @@ p {
   }
 }
 a {
-  color: #42DCA3;
+  color: #183446;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -47,21 +47,21 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #1d9b6c;
+  color: #183446;
 }
 .light {
   font-weight: 400;
 }
 .navbar-custom {
   margin-bottom: 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid #183446;
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: black;
+  font-family: "Elementa", "Elementa", Elementa, Elementa, Elementa;
+  background-color: #046E8F;
 }
 .navbar-custom .navbar-toggle {
-  color: white;
-  background-color: rgba(255, 255, 255, 0.2);
+  color: orange;
+  background-color: #046E8F;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:focus,
@@ -96,7 +96,7 @@ a:focus {
   outline: none;
 }
 .navbar-custom .nav li.active a {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: #183446;
 }
 .navbar-custom .nav li.active a:hover {
   color: white;
@@ -113,8 +113,8 @@ a:focus {
   }
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: #c14547;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    background: #183446;
+    border-bottom: 1px solid #183446;
   }
 }
 .intro {
@@ -123,9 +123,9 @@ a:focus {
   height: auto;
   padding: 100px 0;
   text-align: center;
-  color: #c14547;
+  color: orange;
   background: url(/Users/emilywheatcroft/Desktop/startbootstrap-grayscale-gh-pages/images/hops.jpg) no-repeat bottom center scroll;
-  background-color: black;
+  background-color: #183446;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -170,8 +170,8 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
   outline: none;
-  color: white;
-  background: rgba(255, 255, 255, 0.1);
+  color: orange;
+  background: #183446;
 }
 .btn-circle i.animated {
   -webkit-transition-property: -webkit-transform;
@@ -225,7 +225,7 @@ a:focus {
   padding: 50px 0;
   color: white;
   background: url(/Users/emilywheatcroft/Desktop/startbootstrap-grayscale-gh-pages/images/colinbrewing.jpg) no-repeat center center scroll;
-  background-color: black;
+  background-color: #183446;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -250,7 +250,7 @@ a:focus {
 }
 .btn {
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Elementa", "Elementa", Elementa, Elementa, Elementa;
   font-weight: 400;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -258,15 +258,15 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid white;
+  border: 1px solid orange;
   color: white;
-  background-color: #c14547;
+  background-color: #183446;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid white;
+  border: 1px solid orange;
   outline: none;
-  color: #3e6899;
+  color: #183446;
   background-color: transparent;
 }
 ul.banner-social-buttons {
@@ -295,8 +295,8 @@ footer p {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #fcfcfc;
-  background: rgba(255, 255, 255, 0.2);
+  background: orange;
+  background: #183446;
 }
 ::selection {
   text-shadow: none;

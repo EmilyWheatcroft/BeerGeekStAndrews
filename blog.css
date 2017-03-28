@@ -35,4 +35,19 @@ figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "E
 
 h6 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
 
+h7 {text-align:center; color:orange; align-content: center; font:20pt "Elementa"}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+
+h8 {text-align:center; color:orange; align-content: center; font:20pt "Elementa"}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+
+
 li {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}

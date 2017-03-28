@@ -105,10 +105,4 @@ ul {font:20pt "Elementa"; color: #046E8F  }
 
 
 #outerdiv {width: 90%; height: 90%; text-align:center}
-#wrapper2 {
-     width: 1000px;
-     margin: 0 auto;
-     padding: 0;
-     overflow: auto;
-}
 #map {width: 300px; height: 300px; margin:0px auto; display:inline-block}

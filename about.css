@@ -6,9 +6,11 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 80px 80px 80px;}
-h2 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"; margin: 80px 80px 80px;}
+h2 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
 
-h3 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
+h3 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
 
 h4 {text-align:center; color:purple; align-content: right; font:20pt "Elementa"}
+
+#backbutton {align-content: center; font:50pt "Elementa"}

@@ -1,7 +1,14 @@
 body
 div {position: relative;left: -300pt;}
 
-#backbutton {text-align:center; color:orange;}
+#backbutton {align-content: center; font:50pt "Elementa"}
+
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
 
 h1 {text-align:center; color:orange; align-content: right; font:100pt "Elementa"}
 h2 {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
@@ -12,42 +19,42 @@ img {
     margin-right: auto }
 figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 80px 80px 80px;}
 
-h3 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+h3 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"; margin: 0 0 35px;}
 
-h4 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+h4 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"; margin: 0 0 35px;}
 
-h5 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+h5 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"; margin: 0 0 35px;}
 
-h6 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+h6 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
 
-h7 {text-align:center; color:orange; align-content: center; font:20pt "Elementa"}
+h7 {text-align:center; color:orange; align-content: center; font:40pt "Elementa"}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"; margin: 0 0 35px;}
 
-h8 {text-align:center; color:orange; align-content: center; font:20pt "Elementa"}
+h8 {text-align:center; color:orange; align-content: center; font:40pt "Elementa"}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 0 0 35px;}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"; margin: 0 0 35px;}
 
 
-li {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+li {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}

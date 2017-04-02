@@ -73,12 +73,11 @@ img {
     margin-right: auto }
 figcaption {text-align:center; color:orange; align-content: right; font:10pt "Elementa"}
 
-h12 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h12 {text-align:center; color:orange; align-content: right; font:10pt "Elementa"}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:orange; align-content: right; font:10pt "Elementa"}
 
 
 ul {font:20pt "Elementa"; color: #046E8F  }

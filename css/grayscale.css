@@ -159,7 +159,9 @@ background: url(http://foodanddrink.scotsman.com/wp-content/uploads/2016/11/unna
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
-  color:#183446;
+  color:#A52A2A;
+  font: "Elementa";
+  font-weight: bold;
 }
 @media (min-width: 768px) {
   .intro {

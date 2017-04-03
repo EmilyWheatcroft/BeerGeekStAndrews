@@ -245,7 +245,7 @@ background: url(http://foodanddrink.scotsman.com/wp-content/uploads/2016/11/unna
 .download-section {
   width: 100%;
   padding: 50px 0;
-  color: white;
+  color: orange;
   background: url(https://scontent.fman2-2.fna.fbcdn.net/v/t1.0-9/12096359_919401544775936_3308309078468900865_n.jpg?oh=5b19bfbea6d0ec9945dc6803ba1af41d&oe=59925A72) no-repeat center center scroll;
   background-color: #183446;
   -webkit-background-size: cover;
@@ -361,15 +361,11 @@ body {
 .placeholders {
   width: 100%;
   padding: 50px 0;
-  color: #196596;
+  color: orange;
   font-size: 20px;
-  background: url(https://scontent-lht6-1.xx.fbcdn.net/v/t34.0-12/17757934_10210502786418359_1388310519_n.jpg?oh=7f8f5dd4fcfbd219c97601bf74abe5cd&oe=58E301D8) no-repeat center center scroll;
+
   background-color: #183446;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover; } 
-
-
-
-
+  -o-background-size: cover; }

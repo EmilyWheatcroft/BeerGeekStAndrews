@@ -2,7 +2,7 @@
 body {
   width: 100%;
   height: 100%;
-  font-family: "Helvetica Neue", "Helvetica Neue", Helvetica, Helvetica, Helvetica;
+  font-family: 'Josefin Slab', serif;
   color: orange;
   background-color: #183446;
   padding-top: 50px;
@@ -20,7 +20,7 @@ h5,
 h6 {
   margin: 0 0 35px;
   text-transform: uppercase;
-  font: "Elementa";
+  font-family: 'Josefin Slab', serif;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -28,7 +28,7 @@ h6 {
 h7 {
   margin: 0 0 35px;
   text-transform: uppercase;
-  font: "Elementa";
+  font-family: 'Josefin Slab', serif;
   font-weight: 700;
   letter-spacing: 1px;
   color: #0090C1
@@ -37,7 +37,7 @@ h7 {
 h8 {
   margin: 0 0 35px;
   text-transform: uppercase;
-  font-family: "Helvetica";
+  font-family: 'Josefin Slab', serif;
   font-weight: 700;
   letter-spacing: 1px;
   color: #0090C1
@@ -73,7 +73,7 @@ a:focus {
   margin-bottom: 0;
   border-bottom: 1px solid #183446;
   text-transform: uppercase;
-  font-family: "Helvetica Neue", "Helvetica Neue", Helvetica, Helvetica, Helvetica;
+font-family: 'Josefin Slab', serif;
   background-color: #913131;
 }
 .navbar-custom .navbar-toggle {
@@ -160,7 +160,7 @@ a:focus {
 .intro .intro-body .intro-text {
   font-size: 26px;
   color:#511616;
-  font: "Helvetica";
+  font-family: 'Josefin Slab', serif;
   font-weight: bold;
 }
 @media (min-width: 768px) {
@@ -274,7 +274,7 @@ a:focus {
 }
 .btn {
   text-transform: uppercase;
-  font-family: "Helvetica Neue", "Helvetica Neue", Helvetica, Helvetica, Helvetica;
+  font-family: 'Josefin Slab', serif;
   font-weight: 400;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;

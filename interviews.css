@@ -6,7 +6,7 @@ p{
 }
 
 h1 {
-  text-align:center; color:orange; align-content: right; font:100pt "Elementa"
+  text-align:center; color:orange; align-content: right; font:100pt; font-family: 'Josefin Slab', serif;
 }
 
 div {
@@ -17,19 +17,19 @@ div {
 }
 
 
-h2 {text-align:center; color:  #80FFEC; align-content: right; font:30pt "Elementa"}
-h3 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
+h2 {text-align:center; color:  #80FFEC; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h3 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
 
-h4 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h5 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h6 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h7 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h8 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h9 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h10 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h11 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h12 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h30 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
+h4 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h5 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h6 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h7 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h8 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h9 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h10 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h11 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h12 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
+h30 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Josefin Slab', serif;}
 
 #andrewdiv
 {
@@ -39,60 +39,60 @@ h30 {text-align:center; color: purple; align-content: right; font:30pt "Elementa
     margin: 0;
 }
 
-h29 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
+h29 {text-align:center; color: purple; align-content: right; font:300pt; font-family: 'Josefin Slab', serif;}
 
 
-h13 {text-align:center; color: #80FFEC; align-content: right; font:30pt "Elementa"}
-h14 {text-align:center; color: #80FFEC; align-content: right; font:30pt "Elementa"}
-h15 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h16 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h17 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h18 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h19 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h20 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h21 {text-align:center; color: #0090C1; align-content: right; font:30pt "Elementa"}
-h22 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h23 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h24 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h25 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h26 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h27 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h28 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-
-
-
-h31 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h32 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h33 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h34 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h35 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h36 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
-h37 {text-align:center; color: purple; align-content: right; font:30pt "Elementa"}
+h13 {text-align:center; color: #80FFEC; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h14 {text-align:center; color: #80FFEC; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h15 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h16 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h17 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h18 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h19 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h20 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h21 {text-align:center; color: #0090C1; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h22 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h23 {text-align:center; color: orange; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h24 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h25 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h26 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h27 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
+h28 {text-align:center; color: purple; align-content: right; font:50pt; font-family: 'Exo', sans-serif;}
 
 
 
-h38 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h39 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h60 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h61 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h62 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h63 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h64 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h65 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h66 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h67 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h40 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h42 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
+h31 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
+h32 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
+h33 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
+h34 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
+h35 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
+h36 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
+h37 {text-align:center; color: purple; align-content: right; font:30pt; font-family: 'Exo', sans-serif;}
 
-h44 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h46 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h48 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h50 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h52 {text-align:center; color: #046E8F; align-content: right; font:30pt "Elementa"}
-h54 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h56 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h58 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
-h59 {text-align:center; color: orange; align-content: right; font:30pt "Elementa"}
+
+
+h38 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h39 {text-align:center; color: #046E8F; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h60 {text-align:center; color: #046E8F; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h61 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h62 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h63 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h64 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h65 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h66 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h67 {text-align:center; color: #046E8F; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h40 {text-align:center; color: orange; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+h42 {text-align:center; color: orange; align-content: right; font:30pt ; font-family: 'Josefin Slab', serif;}
+
+h44 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h46 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h48 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h50 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h52 {text-align:center; color: #046E8F; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h54 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h56 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h58 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
+h59 {text-align:center; color: orange; align-content: right; font:30pt; font-family: 'Josefin Slab', serif;}
 
 
 #backbutton {align-content: center; font:50pt "Elementa"}

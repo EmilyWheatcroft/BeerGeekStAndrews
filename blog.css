@@ -1,7 +1,7 @@
 body
 div {position: relative;left: -300pt;}
 
-#backbutton {align-content: center; font:50pt "Elementa"}
+#backbutton {align-content: center; font:50pt; font-family: 'Fjalla One', sans-serif;}
 
 p{
     margin-top: 10px;
@@ -10,16 +10,16 @@ p{
     margin-left: 150px;
 }
 
-h1 {text-align:center; color:orange; align-content: right; font:100pt "Elementa"}
-h2 {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
-p {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+h1 {text-align:center; color:orange; align-content: right; font:100pt; font-family: 'Fjalla One', sans-serif;}
+h2 {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Fjalla One', sans-serif;}
+p {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Fjalla One', sans-serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt "Elementa"; margin: 80px 80px 80px;}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:10pt; font-family: 'Fjalla One', sans-serif; margin: 80px 80px 80px;}
 
-h3 {text-align:center; color:orange; align-content: right; font:40pt "Elementa"}
+h3 {text-align:center; color:orange; align-content: right; font:40pt; font-family: 'Fjalla One', sans-serif;}
 img {
     display: block;
     margin-left: auto;

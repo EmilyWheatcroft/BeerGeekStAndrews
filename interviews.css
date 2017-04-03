@@ -12,15 +12,15 @@ h1 {
 h2 {text-align:center; color:  #80FFEC; align-content: right; font:20pt "Elementa"}
 h3 {text-align:center; color: orange; align-content: right; font:20pt "Elementa"}
 
-h4 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h5 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h6 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h7 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h8 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h9 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h10 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h11 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h12 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
+h4 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h5 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h6 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h7 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h8 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h9 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h10 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h11 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
+h12 {text-align:center; color: #0090C1; align-content: right; font:20pt "Elementa"}
 h30 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
 h29 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
 
@@ -34,13 +34,13 @@ h18 {text-align:center; color: #0090C1; align-content: right; font:15pt "Element
 h19 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
 h20 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
 h21 {text-align:center; color: #0090C1; align-content: right; font:15pt "Elementa"}
-h22 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h22 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
 h23 {text-align:center; color: orange; align-content: right; font:15pt "Elementa"}
-h24 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
-h25 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
-h26 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
-h27 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
-h28 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h24 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
+h25 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
+h26 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
+h27 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
+h28 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
 
 
 h31 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
@@ -51,8 +51,9 @@ h35 {text-align:center; color: purple; align-content: right; font:20pt "Elementa
 h36 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
 h37 {text-align:center; color: purple; align-content: right; font:20pt "Elementa"}
 
-h38 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h38 {text-align:center; color: orange; align-content: right; font:20pt "Elementa"}
 h39 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h40 {text-align:center; color: orange; align-content: right; font:20pt "Elementa"}
 
 h44 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
 h46 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
@@ -62,6 +63,7 @@ h52 {text-align:center; color: #046E8F; align-content: right; font:20pt "Element
 h54 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
 h56 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
 h58 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h59 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
 
 
 #backbutton {align-content: center; font:50pt "Elementa"}

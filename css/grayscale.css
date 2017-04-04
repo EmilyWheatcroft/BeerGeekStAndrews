@@ -247,13 +247,8 @@ font-family: 'Josefin Slab', serif;
 .download-section {
   width: 100%;
   padding: 50px 0;
-<<<<<<< HEAD
-  color: orange;
-  background: url(https://scontent.fman2-2.fna.fbcdn.net/v/t1.0-9/12096359_919401544775936_3308309078468900865_n.jpg?oh=5b19bfbea6d0ec9945dc6803ba1af41d&oe=59925A72) no-repeat center center scroll;
-=======
   color: #511616;
   background: url(http://i.imgur.com/UtlLri0.jpg) no-repeat center center scroll;
->>>>>>> origin/master
   background-color: #183446;
   -webkit-background-size: cover;
   -moz-background-size: cover;

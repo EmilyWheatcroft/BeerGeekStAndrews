@@ -10,7 +10,7 @@ h1 {
 }
 
 div {
-    width: 2000px;
+    width: 1000px;
     padding: 10px;
     border: 10px solid purple;
     margin: 0;
@@ -33,7 +33,7 @@ h30 {text-align:center; color: purple; align-content: right; font:50pt; font-fam
 
 #andrewdiv
 {
-    width: 2000px;
+    width: 1000px;
     padding: 10px;
     border: 10px solid purple;
     margin: 0;

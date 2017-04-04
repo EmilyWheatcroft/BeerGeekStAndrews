@@ -10,8 +10,8 @@ p{
     margin-left: 150px;
 }
 
-h1 {text-align:center; color:orange; align-content: right; font:100pt; font-family: 'Josefin Slab', serif;}
-h2 {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
+h1 {text-align:center; color:orange; align-content: right; font:150pt; font-family: 'Josefin Slab', serif;}
+h2 {text-align:center; color:#046E8F; align-content: right; font:40pt; font-family: 'Josefin Slab', serif;}
 p {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
 img {
     display: block;

@@ -5,85 +5,82 @@ body {
 background-color: #022F40;
 }
 
+
+
 #backbutton {text-align:center; color:orange;}
 
+
 h1 {
-  text-align:center; color:orange; align-content: right; font:100pt "Elementa"
+  text-align:center; color:orange; align-content: right; font:100pt; font-family: 'Josefin Slab', serif;"
 }
-h2 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
-h3 {text-align:center; color: #046E8F; align-content: right; font:20pt "Elementa"}
+h2 {text-align:center; color: #046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
+h3 {text-align:center; color: #046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
 
-h4 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h4 {text-align:center; color:#38AECC; align-content: right; font:35pt ; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt ; font-family: 'Josefin Slab', serif;}
 
-h5 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h5 {text-align:center; color:#38AECC; align-content: right; font:35pt ; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
 
-h6 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h6 {text-align:center; color:#38AECC; align-content: center; font:35pt; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif; }
 
-h6 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+
+h7 {text-align:center; color:#38AECC; align-content: center; font:35pt; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
 
-h7 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h8 {text-align:center; color:#38AECC; align-content: center; font:35pt; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt; font-family: 'Josefin Slab', serif;}
 
-h8 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h9 {text-align:center; color:#38AECC; align-content: center; font:35pt ; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt ; font-family: 'Josefin Slab', serif;}
 
-h9 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h10 {text-align:center; color:#38AECC; align-content: right; font:35pt ; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:#046E8F; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:orange; align-content: center; font:20pt ; font-family: 'Josefin Slab', serif;}
 
-h10 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
+h11 {text-align:center; color:#38AECC; align-content: right; font:35pt ; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
-figcaption {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+figcaption {text-align:center; color:orange; align-content: center; font:20pt ; font-family: 'Josefin Slab', serif;}
 
-h11 {text-align:center; color:#38AECC; align-content: right; font:35pt "Elementa"}
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-figcaption {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
-
-h12 {text-align:center; color:orange; align-content: right; font:20pt "Elementa"}
+h12 {text-align:center; color:orange; align-content: right; font:20pt ; font-family: 'Josefin Slab', serif;}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto }
 
 
-ul {font:20pt "Elementa"; color: #046E8F  }
+ul {font:20pt; font-family: 'Josefin Slab', serif;; color: #046E8F  }
 
 #wrapper {
      width: 1000px;

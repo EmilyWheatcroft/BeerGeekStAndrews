@@ -77,14 +77,9 @@ img {
     margin-right: auto }
 figcaption {text-align:center; color:orange; align-content: center; font:20pt ; font-family: 'Josefin Slab', serif;}
 
-h12 {text-align:center; color:orange; align-content: right; font:20pt ; font-family: 'Josefin Slab', serif;}
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
 
 
-ul {font:20pt; font-family: 'Josefin Slab', serif;; color: #046E8F  }
+ul {font:20pt; font-family: 'Josefin Slab', serif; color: #046E8F  }
 
 #wrapper {
      width: 1000px;
@@ -96,10 +91,10 @@ ul {font:20pt; font-family: 'Josefin Slab', serif;; color: #046E8F  }
 #leftcolumn {
      width: 40%;
      background-color: #111;
-     padding: 0;
+     padding: 10;
      margin: 0;
      display: block;
-     border: 1px solid white;
+     border: 3px solid orange;
      float: left;
 
 }
@@ -109,10 +104,10 @@ ul {font:20pt; font-family: 'Josefin Slab', serif;; color: #046E8F  }
      background-color: #777;
      display: block;
      float: right;
-     border: 1px solid white;
+     border: 3px solid orange;
 }
 
 
 
 #outerdiv {width: 90%; height: 90%; text-align:center}
-#map {width: 300px; height: 300px; margin:0px auto; display:inline-block}
+#map {width: 400px; height: 400px; margin:40px auto; border: 3px solid orange; display:inline-block}

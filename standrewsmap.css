@@ -7,7 +7,11 @@ background-color: #022F40;
 
 
 
-#backbutton {text-align:center; color:orange;}
+#backbutton {text-align:center;
+color:orange;
+font:30pt;
+font-family: 'Josefin Slab', serif;
+}
 
 
 h1 {
